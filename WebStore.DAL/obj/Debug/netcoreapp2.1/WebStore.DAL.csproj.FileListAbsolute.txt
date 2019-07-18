@@ -7,3 +7,8 @@ D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.D
 D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.AssemblyInfo.cs
 D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.dll
 D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.pdb
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DAL.runtimeconfig.json
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DAL.runtimeconfig.dev.json
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DomainNew.dll
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DomainNew.pdb
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.csproj.CopyComplete

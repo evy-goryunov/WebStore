@@ -6,7 +6,7 @@ using WebStore.Domain.Entities;
 
 namespace WebStore.DAL
 {
-	class WebStoreContext: DbContext
+	public class WebStoreContext: DbContext
 	{
 		public WebStoreContext(DbContextOptions options): base(options)
 		{
