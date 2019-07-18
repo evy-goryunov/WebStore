@@ -38,7 +38,7 @@ namespace WebStore
 			services.AddSingleton<IEmployeesData, InMemoryEmployeeData>();
 			//services.AddScoped<IEmployeesData, InMemoryEmployeeData>();
 			//services.AddTransient<IEmployeesData, InMemoryEmployeeData>();
-			services.AddSingleton<IProductService, InMemoryProductService>();
+			services.AddScoped<IProductService, SqlProductService>();
 
 			services.AddDbContext<WebStoreContext>(options => options.UseSqlServer(
 				Configuration.GetConnectionString(name: "DefaultConnection")));
