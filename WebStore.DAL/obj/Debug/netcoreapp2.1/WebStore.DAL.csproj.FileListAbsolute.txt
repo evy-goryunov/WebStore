@@ -1,0 +1,14 @@
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DAL.deps.json
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DAL.dll
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DAL.pdb
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.csprojAssemblyReference.cache
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.csproj.CoreCompileInputs.cache
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.AssemblyInfoInputs.cache
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.AssemblyInfo.cs
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.dll
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.pdb
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DAL.runtimeconfig.json
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DAL.runtimeconfig.dev.json
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DomainNew.dll
+D:\something\GB_project\WebStore\WebStore.DAL\bin\Debug\netcoreapp2.1\WebStore.DomainNew.pdb
+D:\something\GB_project\WebStore\WebStore.DAL\obj\Debug\netcoreapp2.1\WebStore.DAL.csproj.CopyComplete
