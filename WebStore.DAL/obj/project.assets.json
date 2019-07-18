@@ -943,6 +943,20 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "WebStore.DomainNew/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.11",
+          "System.ComponentModel.Annotations": "4.5.0"
+        },
+        "compile": {
+          "bin/placeholder/WebStore.DomainNew.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebStore.DomainNew.dll": {}
+        }
       }
     }
   },
@@ -3605,13 +3619,19 @@
         "system.threading.tasks.4.0.11.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "WebStore.DomainNew/1.0.0": {
+      "type": "project",
+      "path": "../WebStore.DomainNew/WebStore.DomainNew.csproj",
+      "msbuildProject": "../WebStore.DomainNew/WebStore.DomainNew.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.6",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.6",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "WebStore.DomainNew >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3643,7 +3663,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\something\\GB_project\\WebStore\\WebStore.DomainNew\\WebStore.DomainNew.csproj": {
+              "projectPath": "D:\\something\\GB_project\\WebStore\\WebStore.DomainNew\\WebStore.DomainNew.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
