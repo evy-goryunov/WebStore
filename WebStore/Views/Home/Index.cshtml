@@ -8,6 +8,8 @@
             @await Html.PartialAsync("Partial/_LeftSideBar")
         </div>
         <div class="col-sm-9 padding-right">
+            @await Html.PartialAsync("Partial/_Header")
+            @await Html.PartialAsync("Partial/_Footer")
             @await Html.PartialAsync("Partial/_FeaturedItems")
             @await Html.PartialAsync("Partial/_CategoryTab")
             @await Html.PartialAsync("Partial/_RecommendedItems")
